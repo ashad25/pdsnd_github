@@ -9,5 +9,5 @@ Creates a python code to analyze bike share data
 chicago.csv, washington.csv, new_york_city.csv
 
 ### Credits
-Not much at all, the course was good. Just the mentor help minimally
+Not much at all, the course was good and well explained
 
