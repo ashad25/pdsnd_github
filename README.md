@@ -4,7 +4,7 @@ March 12, 2020
 Github project
 
 ### Description
-Creates a python code to analyze bike share data
+Creates a python code to analyze bike share data by each city. 
 ### Files used
 chicago.csv, washington.csv, new_york_city.csv
 
