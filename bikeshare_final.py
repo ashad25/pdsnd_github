@@ -60,7 +60,7 @@ while True:
 
 else:
 
-    print('Sorry, please enter months; january to june or all')
+    print('Sorry, please enter months; january, February, march, april, may , june or all')
 
 
 
