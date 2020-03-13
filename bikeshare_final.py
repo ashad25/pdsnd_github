@@ -254,7 +254,7 @@ print("\nThis took %s seconds." % (time.time() - start_time))
 
 print('-'*40)
 
-#Here the goal is to display the Raw data  upon request by the user in this manner:
+#Here the goal is to create a function that displays the Raw data  upon request by the user in this manner:
 # i.e.,  prompt the user if they want to see 5 lines of raw data, display that data if the answer is 'yes',
 #and continue these prompts and displays until the user says 'no'
 
@@ -279,7 +279,7 @@ while True:
 
 
 
-# Bringing everything together.
+# Bringing everything together 
 
 def main():
     while True:
