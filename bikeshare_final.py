@@ -46,7 +46,7 @@ while True:
 
         print('Sorry, We store  data only on chicago, new york city and washington')
 
-# get user input for month (all, january, february, ... , june)
+# get user input for month (all, january, february,march, ... , june)
 
 print('\nPlease let us know which month would you like to explore')
 
