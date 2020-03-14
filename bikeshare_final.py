@@ -205,7 +205,7 @@ print('-'*40)
 
 def user_stats(df):
 
-    """Displays statistics on bikeshare users."""
+    """Displays statistics and metrics on bikeshare users."""
 
 print('\nCalculating User Stats...\n')
 
